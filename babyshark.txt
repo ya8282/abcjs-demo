@@ -1,0 +1,24 @@
+X: 1
+T: Baby Shark
+M: 2/4
+L: 1/16
+K: Gmaj
+Q: 120
+%%score (R) (L)
+V:R  clef=treble
+V:L  clef=bass
+%
+% 1
+[V:R] |: D4E4                 | G2G2 G2G(G-      | G)GG2 D2E2      |  G2G2 G2G(G-   |  G)GG2 D2E2          |
+w:       Ba by                | shark do do do do| -do do ba by    | shark do do do | -do do ba by
+w:       Mom my               | shark do do do do| -do do mom my   | shark do do do | -do do mom my
+w:       Dad dy               | shark do do do do| -do do dad dy   | shark do do do | -do do dad dy
+w:       Grand ma             | shark do do do do| -do do grand ma | shark do do do | -do do grand ma
+[V:L] |: z8                   | [D,8B,8G,8]-     | [D,8B,8G,8]        | ([E,8G,8C8]- | [E,4G,4C4])C,,2C,,2  |
+% 6
+[V:R] G2G2 G2G(G -         | G)GG2 G2G2       | F2z2z4              :|
+w:    shark do do do do    | -do do ba by     | shark                |
+w:    shark do do do do    | -do do mom my    | shark                |
+w:    shark do do do do    | -do do dad dy    | shark                |
+w:    shark do do do do    | -do do grand ma  | shark                |
+[V:L] E,,3(E,,-E,,2) E,,2- | E,,4   E,,2E,,2  | D,,3(D,,-D,,2)D,,2  :| 
